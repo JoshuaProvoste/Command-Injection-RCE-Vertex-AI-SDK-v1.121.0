@@ -1,9 +1,6 @@
 # Command Injection / Remote Code Execution (RCE) via Insecure Deserialization in load() of predictor.py in Vertex AI SDK v1.121.0 - (github.com/googleapis/python-aiplatform)
 
 - Author: Joshua Provoste
-- Website: https://joshuaprovoste.com
-- Company: https://wl-inc.cl
-
 ## Resume
 
 `google-cloud-aiplatform` is Google Cloud's official Python SDK for working with **Vertex AI**. It provides high-level abstractions to create, train, deploy, and use ML models (including AutoML and custom models), and to manage datasets, endpoints, pipelines, and predictions.
